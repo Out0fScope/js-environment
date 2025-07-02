@@ -4,7 +4,6 @@
     "dbaeumer.vscode-eslint",
     "xabikos.JavaScriptSnippets",
     "formulahendry.auto-rename-tag",
-    "wayou.vscode-todo-highlight",
-    "oderwat.indent-rainbow"
+    "wayou.vscode-todo-highlight"
   ]
 }

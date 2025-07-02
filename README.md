@@ -11,7 +11,6 @@
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Highlight Trailing White Spaces](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
 ## ⚙️ Настройки
 
