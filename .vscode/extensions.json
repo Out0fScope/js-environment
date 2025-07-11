@@ -4,6 +4,7 @@
     "dbaeumer.vscode-eslint",
     "xabikos.JavaScriptSnippets",
     "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
     "wayou.vscode-todo-highlight"
   ]
 }
