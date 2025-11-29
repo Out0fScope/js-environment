@@ -20,7 +20,6 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/your-username/dev-setup-js.git
-cd dev-setup-js
-code .
+git clone https://github.com/Out0fScope/js-environment.git
+cd js-environment
 ```
